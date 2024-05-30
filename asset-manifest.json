@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twins/static/css/main.2f4a4e8e.css",
+    "main.js": "/twins/static/js/main.22151142.js",
+    "index.html": "/twins/index.html",
+    "main.2f4a4e8e.css.map": "/twins/static/css/main.2f4a4e8e.css.map",
+    "main.22151142.js.map": "/twins/static/js/main.22151142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4a4e8e.css",
+    "static/js/main.22151142.js"
+  ]
+}
